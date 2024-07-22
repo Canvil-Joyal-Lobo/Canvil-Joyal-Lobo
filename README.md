@@ -1,5 +1,6 @@
-Hi 👋, I'm Canvil Joyal Lobo
-I'm Currently Pursuing My MCA in St Joseph Engineering College In Mangaluru , India
+<b><h1>Hi 👋, I'm Canvil Joyal Lobo</h1><b>
+<br>
+I'm Currently Pursuing My MCA in St Joseph Engineering College In Mangaluru , India</br>
 
 
 ## 🌐 Socials:
