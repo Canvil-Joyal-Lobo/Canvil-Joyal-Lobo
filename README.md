@@ -1,5 +1,5 @@
-# 💫 About Me:
-MCA Student
+Hi 👋, I'm Canvil Joyal Lobo
+I'm Currently Pursuing My MCA in St Joseph Engineering College In Mangaluru , India
 
 
 ## 🌐 Socials:
